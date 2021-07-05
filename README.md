@@ -10,15 +10,17 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 ### Gimbalabs
 
-
-
 ### Israel Community
 
-### spocra
-
-
+### SPOCRA \(Stake Pool Operators\)
 
 ### Project Catalyst Community Advisors
+
+### The Swarm
+
+
+
+
 
 
 
