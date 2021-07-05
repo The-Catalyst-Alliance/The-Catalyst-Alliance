@@ -28,6 +28,8 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 ### Vietnamese Community
 
+{% embed url="https://t.me/TIGERpoolNews" %}
+
 ### WADA
 
 {% embed url="https://wadalliance.org/" %}
