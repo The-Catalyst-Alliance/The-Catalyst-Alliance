@@ -4,7 +4,7 @@ description: For the month of July 2021
 
 # The Catalyst Alliance - July 2021
 
-The Catalyst Alliance are an informal group that came together in mid-May to discuss common concerns. They comprise communities within Catalyst such as the Israel community, the Vietnamese community WADA, Community Advisors, SPOCRA \(Stake Pools\), gimbalabs and the Swarm. 
+The Catalyst Alliance are an informal group that came together in mid-May to discuss common concerns. They comprise communities within Catalyst such as the Israel community, the Vietnamese community WADA, Community Advisors, SPOCRA \(Stake Pools\), gimbalabs and the Swarm.
 
 ## Meeting of 3rd, July 2021 - Draft
 
@@ -16,7 +16,7 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 \(Alphabetical by First Name\)
 
-Edi Polonski \(ISR\) ?, DanMercurius \(Secret Decks\), jadjei \(\) , FelixWeber \(Swarm\), Maria Carmo \(Lovelace Academy\),  Mercy \(WADA\), NewMindflow \(Rares & AnaMaria\),  PeteOK \(\), Stephen Whitenstall \(Swarm Support\), Steven Aldrich, Steve Lockhart, Token.Dreams \(CA\)
+Edi Polonski \(ISR\) ?, DanMercurius \(Secret Decks\), jadjei \(\) , FelixWeber \(Swarm\), Maria Carmo \(Lovelace Academy\), Mercy \(WADA\), NewMindflow \(Rares & AnaMaria\), PeteOK \(\), Stephen Whitenstall \(Swarm Support\), Steven Aldrich, Steve Lockhart, Token.Dreams \(CA\)
 
 ### Notes <a id="docs-internal-guid-544d05cd-7fff-e0e3-d8e0-6c3220d1ea64"></a>
 
@@ -24,7 +24,7 @@ Record of The Catalyst Alliance Meeting adapted from notes by Tevo
 
 ### Miro
 
-{% embed url="https://miro.com/app/board/o9J\_lESWSjw=/" %}
+{% embed url="https://miro.com/app/board/o9J\_lESWSjw=/" caption="" %}
 
 ### Creating NFT badges as a means of tracking merit
 
@@ -76,7 +76,7 @@ Connect with James if his interested alternative funding methods
 
 Connect with Rik \(Digital Fortress\) and see if we can run similar campaign like we did for WADA. Community can have powerful message to get behind an idea in public matter
 
-### Statistical Analysis of Fund 4 
+### Statistical Analysis of Fund 4
 
 How many voters are from community. How many whales decides what happens?
 
