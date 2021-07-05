@@ -10,6 +10,8 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 ### Gimbalabs
 
+{% embed url="https://gimbalabs.com/" %}
+
 ### Israel Community
 
 ### SPOCRA \(Stake Pool Operators\)
