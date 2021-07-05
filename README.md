@@ -16,8 +16,6 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 {% embed url="https://members.spocra.io/feed" %}
 
-
-
 ### Project Catalyst Community Advisors
 
 ### The Swarm
