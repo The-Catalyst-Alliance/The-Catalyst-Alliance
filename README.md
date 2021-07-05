@@ -14,6 +14,10 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 ### SPOCRA \(Stake Pool Operators\)
 
+{% embed url="https://members.spocra.io/feed" %}
+
+
+
 ### Project Catalyst Community Advisors
 
 ### The Swarm
