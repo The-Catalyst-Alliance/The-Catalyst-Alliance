@@ -14,6 +14,8 @@ The Catalyst Alliance are an informal group that came together in mid-May to dis
 
 ### Israel Community
 
+{% embed url="https://www.youtube.com/channel/UC0crTFyIdl3xBbdgXzeBc\_g" %}
+
 ### SPOCRA \(Stake Pool Operators\)
 
 {% embed url="https://members.spocra.io/feed" %}
