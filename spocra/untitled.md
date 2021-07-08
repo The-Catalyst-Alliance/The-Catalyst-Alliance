@@ -1,5 +1,5 @@
 ---
-description: Notable Catalyst Community events in June
+description: Community Recognition Awards
 ---
 
 # Community Recognition
