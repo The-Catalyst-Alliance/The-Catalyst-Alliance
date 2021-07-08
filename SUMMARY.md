@@ -8,5 +8,5 @@
 
 ## SPOCRA
 
-* [Untitled](spocra/untitled.md)
+* [Community Recognition](spocra/untitled.md)
 

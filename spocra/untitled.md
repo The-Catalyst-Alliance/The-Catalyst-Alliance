@@ -2,7 +2,7 @@
 description: Notable Catalyst Community events in June
 ---
 
-# Catalyst Community - June 2021
+# Community Recognition
 
 ## Community Recognition \| Cardano Stake Pool Operators \(SPOCRA\) -  June 2021
 
@@ -128,9 +128,5 @@ The Silent Architect
 
 #### KEWW
 
-{% embed url="https://www.youtube.com/channel/UCJHMqKAgmyd82ylnyBFC79Q" %}
-
-
-
-
+{% embed url="https://www.youtube.com/channel/UCJHMqKAgmyd82ylnyBFC79Q" caption="" %}
 
