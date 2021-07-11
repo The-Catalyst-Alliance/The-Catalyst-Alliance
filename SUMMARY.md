@@ -10,3 +10,7 @@
 
 * [Community Recognition Awards](spocra/community-recognition-awards.md)
 
+## Tracking effort and merit in Cardano
+
+* [Untitled](tracking-effort-and-merit-in-cardano/untitled.md)
+
