@@ -30,6 +30,8 @@ Tyler Wales \(Secret Decks\)
 
 ### New Mindflow, Anna Maria and Rares - [1:13](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=73s)
 
+{% embed url="http://www.newmindflow.com/" %}
+
 ### Dan Verowski \(Secret Decks\) - [3:05](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=185s)
 
 ### Tyler Wales \(Secret Decks\) - [4:00](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=240s)
