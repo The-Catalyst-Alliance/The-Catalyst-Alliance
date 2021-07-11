@@ -6,11 +6,9 @@ description: Tracking effort and merit in Cardano
 
 ## Meeting, 8th July 2021
 
-## Tracking effort and merit in Cardano
+### Tracking effort and merit, NFTs, social media, SourceCred and testing it out in The Catalyst Alliance.
 
 {% embed url="https://www.youtube.com/watch?v=Vf74Ia7UMlU&t" caption="" %}
-
-### Tracking effort and merit, NFTs, social media, SourceCred and testing it out in The Catalyst Alliance.
 
 Anna Maria \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.com/)\) 
 
