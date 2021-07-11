@@ -12,7 +12,17 @@ description: Tracking effort and merit in Cardano
 
 ### Tracking effort and merit, NFTs, social media, SourceCred and testing it out in The Catalyst Alliance.
 
-Anna Maria \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.com/)\) Dan Verowski \(Secret Decks\) Jonathan Adjei \(The Catalyst Alliance, [https://fluid7.co.uk/](https://fluid7.co.uk/)\) Rares \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.com/)\) Stephen Whitenstall \(Catalyst Swarm Support, [https://catalyst-swarm.gitbook.io/cat](https://catalyst-swarm.gitbook.io/cat)...\) Tyler Wales \(Secret Decks\)
+Anna Maria \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.com/)\) 
+
+Dan Verowski \(Secret Decks\) 
+
+Jonathan Adjei \(The Catalyst Alliance, [https://fluid7.co.uk/](https://fluid7.co.uk/)\) 
+
+Rares \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.com/)\) 
+
+Stephen Whitenstall \(Catalyst Swarm Support, [https://catalyst-swarm.gitbook.io/cat](https://catalyst-swarm.gitbook.io/cat)...\) 
+
+Tyler Wales \(Secret Decks\)
 
 ## Introductions
 
@@ -28,7 +38,7 @@ Anna Maria \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.
 
 ### Using NFTs \(Non-Fungible Tokens\) to reward Idea Fest Participants - 4:55
 
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021" %}
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021" caption="" %}
 
 ## An NFT Award prototype for the Catalyst Idea Fest - New Mindflow  - 5:28
 
