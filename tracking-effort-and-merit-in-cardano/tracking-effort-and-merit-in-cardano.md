@@ -28,23 +28,23 @@ description: Tracking effort and merit in Cardano
 
 ### Tyler Wales \(Secret Decks\) - [4:00](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=240s)
 
-### Using NFTs \(Non-Fungible Tokens\) to reward Idea Fest Participants - 4:55
+### Using NFTs \(Non-Fungible Tokens\) to reward Idea Fest Participants - [4:55](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=295s)
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021" caption="" %}
 
-## An NFT Award prototype for the Catalyst Idea Fest - New Mindflow  - 5:28
+## An NFT Award prototype for the Catalyst Idea Fest - New Mindflow  - [5:28](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=328s)
 
-### Fungible and Non-Fungible Awards - 6:24
+### Fungible and Non-Fungible Awards - [6:24](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=384s)
 
-### Processes of discovery in how to recognize contribution using NFTs- Stephen Whitenstall - 6:59
+### Processes of discovery in how to recognize contribution using NFTs- Stephen Whitenstall - [6:59](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=419s)
 
-### An experiment in recognition and encouraging participation - New Mindflow  - 7:21
+### An experiment in recognition and encouraging participation - New Mindflow  - [7:21](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=441s)
 
-### Some tracking related to voting ? - Stephen Whitenstall, New Mindflow - 9:03
+### Some tracking related to voting ? - Stephen Whitenstall, New Mindflow - [9:03](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=543s)
 
 At the end of Idea Fest there will be polls to gather votes from attendees to track the popularity of presentations.
 
-### Do the polls gauge the public's reaction or to acknowledge participation ? - Tyler Wales, New Mindflow - 10:11
+### Do the polls gauge the public's reaction or to acknowledge participation ? - Tyler Wales, New Mindflow - [10:11](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=611s)
 
 We have tiers of recognition. A General Participation Award and By Category of Proposal Presentation. To gauge the public's reaction to the presentations. - New Mindflow
 
