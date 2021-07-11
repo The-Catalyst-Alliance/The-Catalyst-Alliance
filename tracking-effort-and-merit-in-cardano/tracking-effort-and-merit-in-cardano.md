@@ -16,21 +16,21 @@ Anna Maria \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.
 
 ## Introductions
 
-Stephen Whitenstall \(Catalyst Swarm Support\) 
+### Stephen Whitenstall \(Catalyst Swarm Support\) 
 
-Jonathan Adjei \(The Catalyst Alliance\) - 0:38
+### Jonathan Adjei \(The Catalyst Alliance\) - 0:38
 
-New Mindflow, Anna Maria and Rares - 1:13
+### New Mindflow, Anna Maria and Rares - 1:13
 
-Dan Verowski \(Secret Decks\) - 3:05
+### Dan Verowski \(Secret Decks\) - 3:05
 
-Tyler Wales \(Secret Decks\) - 4:00
+### Tyler Wales \(Secret Decks\) - 4:00
 
 ### Using NFTs \(Non-Fungible Tokens\) to reward Idea Fest Participants - 4:55
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021" %}
 
-### An NFT Award prototype for the Catalyst Idea Fest - New Mindflow  - 5:28
+## An NFT Award prototype for the Catalyst Idea Fest - New Mindflow  - 5:28
 
 ### Fungible and Non-Fungible Awards - 6:24
 
