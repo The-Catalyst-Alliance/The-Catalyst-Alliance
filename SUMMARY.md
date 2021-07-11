@@ -12,5 +12,5 @@
 
 ## Tracking effort and merit in Cardano
 
-* [Untitled](tracking-effort-and-merit-in-cardano/untitled.md)
+* [Tracking effort and merit in Cardano](tracking-effort-and-merit-in-cardano/untitled.md)
 
