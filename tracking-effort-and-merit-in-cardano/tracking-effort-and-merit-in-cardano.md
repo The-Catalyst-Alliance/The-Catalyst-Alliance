@@ -14,6 +14,8 @@ description: Tracking effort and merit in Cardano
 
 ### Stephen Whitenstall \(Catalyst Swarm Support\) - [0:24](https://youtu.be/Vf74Ia7UMlU?t=24)
 
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/" %}
+
 ### Jonathan Adjei \(The Catalyst Alliance,  [https://fluid7.co.uk/](https://fluid7.co.uk/)\) - [0:38](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=38s)
 
 {% embed url="https://fluid7.co.uk/" %}
