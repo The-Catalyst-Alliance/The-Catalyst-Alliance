@@ -14,25 +14,25 @@ description: Tracking effort and merit in Cardano
 
 ### Stephen Whitenstall \(Catalyst Swarm Support\) - [0:24](https://youtu.be/Vf74Ia7UMlU?t=24)
 
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/" %}
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/" caption="" %}
 
 ### Jonathan Adjei \(The Catalyst Alliance,  [https://fluid7.co.uk/](https://fluid7.co.uk/)\) - [0:38](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=38s)
 
-{% embed url="https://fluid7.co.uk/" %}
+{% embed url="https://fluid7.co.uk/" caption="" %}
 
 ### New Mindflow, Anna Maria and Rares - [1:13](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=73s)
 
-{% embed url="http://www.newmindflow.com/" %}
+{% embed url="http://www.newmindflow.com/" caption="" %}
 
 ### Dan Verowski \(Secret Decks\) - [3:05](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=185s)
 
 ### Tyler Wales \(Secret Decks\) - [4:00](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=240s)
 
-### Using NFTs \(Non-Fungible Tokens\) to reward Idea Fest Participants - [4:55](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=295s)
+## Using NFTs \(Non-Fungible Tokens\) to reward Idea Fest Participants - [4:55](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=295s)
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021" caption="" %}
 
-## An NFT Award prototype for the Catalyst Idea Fest - New Mindflow  - [5:28](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=328s)
+### An NFT Award prototype for the Catalyst Idea Fest - New Mindflow  - [5:28](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=328s)
 
 ### Fungible and Non-Fungible Awards - [6:24](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=384s)
 
