@@ -18,13 +18,13 @@ Anna Maria \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.
 
 ### Stephen Whitenstall \(Catalyst Swarm Support\) - [0:24](https://youtu.be/Vf74Ia7UMlU?t=24)
 
-### Jonathan Adjei \(The Catalyst Alliance\) - 0:38
+### Jonathan Adjei \(The Catalyst Alliance\) - [0:38](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=38s)
 
-### New Mindflow, Anna Maria and Rares - 1:13
+### New Mindflow, Anna Maria and Rares - [1:13](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=73s)
 
-### Dan Verowski \(Secret Decks\) - 3:05
+### Dan Verowski \(Secret Decks\) - [3:05](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=185s)
 
-### Tyler Wales \(Secret Decks\) - 4:00
+### Tyler Wales \(Secret Decks\) - [4:00](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=240s)
 
 ### Using NFTs \(Non-Fungible Tokens\) to reward Idea Fest Participants - 4:55
 
