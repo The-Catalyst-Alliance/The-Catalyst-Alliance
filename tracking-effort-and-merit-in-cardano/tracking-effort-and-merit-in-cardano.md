@@ -10,18 +10,6 @@ description: Tracking effort and merit in Cardano
 
 {% embed url="https://www.youtube.com/watch?v=Vf74Ia7UMlU&t" caption="" %}
 
-Anna Maria \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.com/)\) 
-
-Dan Verowski \(Secret Decks\) 
-
-Jonathan Adjei \(The Catalyst Alliance, [https://fluid7.co.uk/](https://fluid7.co.uk/)\) 
-
-Rares \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.com/)\) 
-
-Stephen Whitenstall \(Catalyst Swarm Support, [https://catalyst-swarm.gitbook.io/cat](https://catalyst-swarm.gitbook.io/cat)...\) 
-
-Tyler Wales \(Secret Decks\)
-
 ## Introductions
 
 ### Stephen Whitenstall \(Catalyst Swarm Support\) - [0:24](https://youtu.be/Vf74Ia7UMlU?t=24)
