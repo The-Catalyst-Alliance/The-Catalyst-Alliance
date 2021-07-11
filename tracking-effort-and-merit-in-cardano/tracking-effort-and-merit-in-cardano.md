@@ -26,7 +26,9 @@ Tyler Wales \(Secret Decks\)
 
 ### Stephen Whitenstall \(Catalyst Swarm Support\) - [0:24](https://youtu.be/Vf74Ia7UMlU?t=24)
 
-### Jonathan Adjei \(The Catalyst Alliance\) - [0:38](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=38s)
+### Jonathan Adjei \(The Catalyst Alliance,  [https://fluid7.co.uk/](https://fluid7.co.uk/)\) - [0:38](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=38s)
+
+{% embed url="https://fluid7.co.uk/" %}
 
 ### New Mindflow, Anna Maria and Rares - [1:13](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=73s)
 
