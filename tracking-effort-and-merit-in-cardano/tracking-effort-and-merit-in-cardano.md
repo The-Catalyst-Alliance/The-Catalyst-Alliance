@@ -56,3 +56,9 @@ We have tiers of recognition. A General Participation Award and By Category of P
 
 Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have issued Awards and a Kudos bot in The Catalyst Alliance \(TCA\) Discord Server. Cardano Project Catalyst Discord Roles - people get assigned roles if they are particularly active. The Community Advisor and Veteran Community Advisors need recognizing. There could be NFTs to recognise all these roles.
 
+### Do NFT Awards accrue value in themselves & can we remove that value ?  - Jonathan Adjei - 14:26
+
+### Vesting periods - Stephen Whitenstall  - 14:57
+
+### Why not use an aggregation layer like SourceCred ? - Dan Verowski   - 15:23
+
