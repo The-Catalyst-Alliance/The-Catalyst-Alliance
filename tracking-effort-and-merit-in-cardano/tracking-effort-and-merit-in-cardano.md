@@ -54,5 +54,5 @@ We have tiers of recognition. A General Participation Award and By Category of P
 
 ### How do we gather in contributions from across the Cardano ecosystem ?  - Jonathan Adjei - [12:26](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=746s)
 
-Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have issued Awards and a Kudos bot in The Catalyst Alliance \(TCA\) Discord Server. Cardano Project Catalyst Discord Roles - people get assigned roles if they are particularly active. The Community Advisor and Veteran Community Advisors need recognizing.
+Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have issued Awards and a Kudos bot in The Catalyst Alliance \(TCA\) Discord Server. Cardano Project Catalyst Discord Roles - people get assigned roles if they are particularly active. The Community Advisor and Veteran Community Advisors need recognizing. There could be NFTs to recognise all these roles.
 
