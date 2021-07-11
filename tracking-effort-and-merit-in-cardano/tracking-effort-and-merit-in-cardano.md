@@ -48,11 +48,11 @@ At the end of Idea Fest there will be polls to gather votes from attendees to tr
 
 We have tiers of recognition. A General Participation Award and By Category of Proposal Presentation. To gauge the public's reaction to the presentations. - New Mindflow
 
-### Immediate recognition as one aspect of tracking  - Stephen Whitenstall - 11:19
+### Immediate recognition as one aspect of tracking  - Stephen Whitenstall - [11:19](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=679s)
 
-### Thoughts on recognition  - Jonathan Adjei - 11:35
+### Thoughts on recognition  - Jonathan Adjei - [11:35](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=695s)
 
-### How do we gather in contributions from across the Cardano ecosystem ?  - Jonathan Adjei - 12:26
+### How do we gather in contributions from across the Cardano ecosystem ?  - Jonathan Adjei - [12:26](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=746s)
 
 Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have issued Awards and a Kudos bot in The Catalyst Alliance \(TCA\) Discord Server. Cardano Project Catalyst Discord Roles - people get assigned roles if they are particularly active. The Community Advisor and Veteran Community Advisors need recognizing.
 
