@@ -16,7 +16,7 @@ Anna Maria \(New Mindflow, [http://www.newmindflow.com/](http://www.newmindflow.
 
 ## Introductions
 
-### Stephen Whitenstall \(Catalyst Swarm Support\) 
+### Stephen Whitenstall \(Catalyst Swarm Support\) - [0:24](https://youtu.be/Vf74Ia7UMlU?t=24)
 
 ### Jonathan Adjei \(The Catalyst Alliance\) - 0:38
 
