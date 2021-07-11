@@ -62,3 +62,7 @@ Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have i
 
 ### Why not use an aggregation layer like SourceCred ? - Dan Verowski   - 15:23
 
+To avoid the diffuclty of minting a specfic NFT every time you want to reward a contribution why not use an aggregation layer like SourceCred? 
+
+
+
