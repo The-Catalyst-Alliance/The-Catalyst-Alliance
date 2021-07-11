@@ -62,7 +62,9 @@ Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have i
 
 ### Why not use an aggregation layer like SourceCred ? - Dan Verowski   - 15:23
 
-To avoid the difficulty of minting a specific NFT every time you want to reward a contribution why not use an aggregation layer like SourceCred? Then just take the data and put it in a very small format like JSON, validate it, put it as metadata on a Catalst ID or passport NFT. That is individual to each person in the Catalyst community who has a Cardano wallet address or Ideascale account. Then just aggregate the contribution data as an NFT. Later on you can vest the NFT for a certain amount of time and access a faucet where you can take voting tokens
+To avoid the difficulty of minting a specific NFT every time you want to reward a contribution why not use an aggregation layer like SourceCred? Then just take the data and put it in a very small format like JSON, validate it, put it as metadata on a Catalst ID or passport NFT. That is individual to each person in the Catalyst community who has a Cardano wallet address or Ideascale account. Then just aggregate the contribution data as an NFT. Later on you can vest the NFT for a certain amount of time and access a faucet where you can take \(binding or non-binding \) voting tokens. And get a proportional anmount of tokens to your reputation.
+
+
 
 
 
