@@ -78,7 +78,7 @@ If the funding is not enough to compensate everyone in a collaborative project t
 
 ### Community Advisors overworked - Tyler Wales - 21:21
 
-Community Advisors are overworked. In the most recent proposals there were only 4 or 5 CAs rank each one. Which is probablly not enough.
+Community Advisors are overworked. In the most recent proposals there were only 4 or 5 CAs rank each one. Which is probably not enough.
 
 
 
