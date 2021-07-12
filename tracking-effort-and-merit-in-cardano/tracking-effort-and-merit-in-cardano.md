@@ -94,6 +94,8 @@ Otherwise whoever has the best marketing message might have the best chance of b
 
 The ideal rewards are in fungibles or voting rights \(as Dan was saying\). If you have a reward that is representative of the amount of effort or the goals achieved then that is far more fair and equitable than an NFT that can increase in value arbitrarily with no further contribution.
 
+### Reward of unfunded proposals as a starting point - New Mindflow  - 25:59
+
 
 
 
