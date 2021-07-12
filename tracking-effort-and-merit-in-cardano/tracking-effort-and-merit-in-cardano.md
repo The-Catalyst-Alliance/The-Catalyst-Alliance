@@ -12,6 +12,8 @@ Anna Maria \(New Mindflow\) Dan Verowski \(Secret Decks\) Jonathan Adjei \(The C
 
 {% embed url="https://www.youtube.com/watch?v=Vf74Ia7UMlU&t" caption="" %}
 
+Note : Timestamp links open in a new window
+
 ## Introductions
 
 ### Stephen Whitenstall \(Catalyst Swarm Support\) - [0:24](https://youtu.be/Vf74Ia7UMlU?t=24)
