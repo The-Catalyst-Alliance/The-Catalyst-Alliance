@@ -126,6 +126,8 @@ Cultural discovery of value. What our community values. That will change from co
 
 ### Secret Decks validator pool - Dan Verowski   - 32:32
 
+A validator pool to validate contributions prior to minting an NFT.
+
 
 
 
