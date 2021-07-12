@@ -198,6 +198,8 @@ Data on multiple groups and types of recognition. Distribution of tokens to orga
 
 ### Documenting Catalyst tracking and reward systems - Stephen Whitenstall - 57:08
 
+If we can communicate what is going on in various projects and provide a context we can advance understanding.
+
 
 
 
