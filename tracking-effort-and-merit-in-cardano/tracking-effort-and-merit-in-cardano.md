@@ -180,6 +180,8 @@ The lessons learnt from NFT Awards and from SourceCred can be compared. NFT Awar
 
 NFT Awards are based on tangible data that is not contentious. Whilst SourceCred tracking requires the weighting of intangible data in a social setting.
 
+### Give an NFT to every proposal ?  - Tyler Wales - 51:42
+
 
 
 
