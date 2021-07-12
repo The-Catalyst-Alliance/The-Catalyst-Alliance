@@ -160,6 +160,10 @@ Difference between rewarding community members to incentive participation and tr
 
 ### Scaling an Awards system to the whole Catalyst community - New Mindflow - 44:30
 
+### SourceCred as a contained experiment - Dan Verowski, Stephen Whitenstall - 46:02
+
+Being aware of what is going on in terms of tracking contributions across the Cardano community.
+
 
 
 
