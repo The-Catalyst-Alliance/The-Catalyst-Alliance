@@ -144,7 +144,11 @@ The SourceCred strategy is to start very simple, in a very specific area and def
 
 How to reconcile self-sovereignty of identity with contribution tracking? If we do not have involvement from all sections of the community, there will be no transparency.
 
-### Ongoing working group meetings - Stephen Whitenstall   - 38:57
+### Ongoing working group meetings - Stephen Whitenstall   -  38:57
+
+### The Catalyst Alliance as the venue for regular tracking meetings - Stephen Whitenstall, Jonathan Adjei - 39:20
+
+### Digital Identity - Dan Verowski - 39:49
 
 
 
