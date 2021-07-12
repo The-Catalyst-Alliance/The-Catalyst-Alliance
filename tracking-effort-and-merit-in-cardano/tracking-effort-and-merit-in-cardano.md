@@ -192,6 +192,8 @@ We identified unfunded proposals as being the group most in need of recognition 
 
 ### Idea Fest voting data - New Mindflow - 54:53
 
+Data on multiple groups and types of recognition.
+
 
 
 
