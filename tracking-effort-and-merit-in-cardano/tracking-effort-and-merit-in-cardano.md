@@ -118,6 +118,8 @@ How can we make sure it remains fair ? And prevent people's preferances and gami
 
 ### It is a system that needs tweaking - Tyler Wales  - 31:02
 
+You setup your parameters \(reward and contribution\) you run it for a few weeks. Then you evaluate the results. Figure out where there are gaps and where people are abusing the system.
+
 
 
 
