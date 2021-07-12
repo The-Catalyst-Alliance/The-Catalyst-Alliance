@@ -8,7 +8,7 @@
 
 ## SPOCRA
 
-* [Community Recognition Awards](spocra/community-recognition-awards.md)
+* [Community Recognition Awards - Draft](spocra/community-recognition-awards.md)
 
 ## Tracking effort and merit in Cardano
 

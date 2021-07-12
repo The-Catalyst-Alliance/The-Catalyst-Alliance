@@ -2,7 +2,7 @@
 description: Community Recognition Awards
 ---
 
-# Community Recognition Awards
+# Community Recognition Awards - Draft
 
 ## Community Recognition \| Cardano Stake Pool Operators \(SPOCRA\) -  June 2021
 
