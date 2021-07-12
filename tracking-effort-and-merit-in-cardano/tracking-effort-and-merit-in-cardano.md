@@ -66,9 +66,9 @@ Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have i
 
 To avoid the difficulty of minting a specific NFT every time you want to reward a contribution why not use an aggregation layer like SourceCred? Then just take the data and put it in a very small format like JSON, validate it, put it as metadata on a Catalst ID or passport NFT. That is individual to each person in the Catalyst community who has a Cardano wallet address or Ideascale account. Then just aggregate the contribution data as an NFT. Later on you can vest the NFT for a certain amount of time and access a faucet where you can take \(binding or non-binding \) voting tokens. And get a proportional amount of tokens to your reputation. Non-binding voting could be returned, whilst binding voting tokens could be lost. To incentivize making the right decision on the vote.
 
-### An experiment for Catalyst wide recognition systems - New Mindflow  - [17:59](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1079s)	
+### An experiment for Catalyst wide recognition systems - New Mindflow  - [17:59](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1079s)
 
-Specifically targeting non-funded proposals as the group most in need of recognition and reward. Funded proposals get funded, Community Advisors and Veteran Community Advisors get rewards. But it is possible to put a lot of hours into a proposal and you end up with nothing to show for it. Which is potentially demoralising and a disincentive to participate in the Catalyst process in the future.
+Specifically targeting non-funded proposals as the group most in need of recognition and reward. Funded proposals get funded, Community Advisors and Veteran Community Advisors get rewards. But it is possible to put a lot of hours into a proposal and you end up with nothing to show for it. Which is potentially demoralizing and a disincentive to participate in the Catalyst process in the future.
 
 ### Ideally the Community Advisor input and feedback would have its own value - Dan Verowski  - [19:10](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1150s)
 
@@ -102,7 +102,7 @@ The ideal rewards are in fungibles or voting rights \(as Dan was saying\). If yo
 
 In a previous meeting we discussed implementation of SourceCred. Possibly starting a test server or channel in Discord.
 
-{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-community-july-2021\#sourcecred-use-set-up-and-strategy" %}
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-community-july-2021\#sourcecred-use-set-up-and-strategy" caption="" %}
 
 ### Set-up a SourceCred test server - Dan Verowski   - 27:50
 
@@ -194,7 +194,7 @@ We identified unfunded proposals as being the group most in need of recognition 
 
 Data on multiple groups and types of recognition. Distribution of tokens to organisers and attendees. Using Kyle Solomon's Heidrun to control access to a token faucet.
 
-{% embed url="https://github.com/adosia/Heidrun" %}
+{% embed url="https://github.com/adosia/Heidrun" caption="" %}
 
 ### Documenting Catalyst tracking and reward systems - Stephen Whitenstall - 57:08
 
@@ -205,62 +205,4 @@ If we can communicate what is going on in various projects and provide a context
 ### Funding applications - Stephen Whitenstall, Dan Verowski - 59:34
 
 Funding for on-chain binding votes .
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
