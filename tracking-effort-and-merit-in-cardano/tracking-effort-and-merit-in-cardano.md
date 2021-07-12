@@ -100,11 +100,11 @@ The ideal rewards are in fungibles or voting rights \(as Dan was saying\). If yo
 
 ## SourceCred - 26:37
 
-In a previous meeting we discussed implementation of SourceCred.
+In a previous meeting we discussed implementation of SourceCred. Possibly starting a test server or channel in Discord.
 
 {% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-community-july-2021\#sourcecred-use-set-up-and-strategy" %}
 
-
+### Set-up a SourceCred test server - Dan Verowski   - 27:50
 
 
 
