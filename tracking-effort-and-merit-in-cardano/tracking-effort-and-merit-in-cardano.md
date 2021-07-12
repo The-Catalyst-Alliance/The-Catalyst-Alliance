@@ -8,6 +8,8 @@ description: Tracking effort and merit in Cardano Working Group Meetings
 
 ### Tracking effort and merit, NFTs, social media, SourceCred and testing it out in The Catalyst Alliance.
 
+Anna Maria \(New Mindflow\) Dan Verowski \(Secret Decks\) Jonathan Adjei \(The Catalyst Alliance\) Rares \(New Mindflow\) Stephen Whitenstall \(Catalyst Swarm Support\) and Tyler Wales \(Secret Decks\)
+
 {% embed url="https://www.youtube.com/watch?v=Vf74Ia7UMlU&t" caption="" %}
 
 ## Introductions
