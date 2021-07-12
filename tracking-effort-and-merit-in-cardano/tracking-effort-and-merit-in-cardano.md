@@ -200,6 +200,8 @@ Data on multiple groups and types of recognition. Distribution of tokens to orga
 
 If we can communicate what is going on in various projects and provide a context we can advance understanding.
 
+### Funding applications - Stephen Whitenstall - 59:34
+
 
 
 
