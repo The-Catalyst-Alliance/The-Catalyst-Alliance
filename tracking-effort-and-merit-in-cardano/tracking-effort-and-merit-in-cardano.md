@@ -164,6 +164,10 @@ Difference between rewarding community members to incentive participation and tr
 
 Being aware of what is going on in terms of tracking contributions across the Cardano community.
 
+### A community overview - Jonathan Adjei, Stephen Whitenstall - 47:04
+
+
+
 
 
 
