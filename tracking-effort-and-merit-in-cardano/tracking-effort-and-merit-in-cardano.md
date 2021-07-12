@@ -150,6 +150,8 @@ How to reconcile self-sovereignty of identity with contribution tracking? If we 
 
 ### Digital Identity and Anonymity- Dan Verowski - 39:49
 
+### A regular forum for tracking and contribution issues ? - Stephen Whitenstall, Rares  - 41:26
+
 
 
 
