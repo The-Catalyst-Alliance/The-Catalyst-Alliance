@@ -128,6 +128,8 @@ Cultural discovery of value. What our community values. That will change from co
 
 A validator pool to validate contributions prior to minting an NFT. The data will be checked for any obvious mishaps and revise the process accordingly.
 
+### What is our ultimate goal ? - Rares  - 33:33
+
 
 
 
