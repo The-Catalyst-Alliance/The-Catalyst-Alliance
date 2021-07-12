@@ -74,6 +74,10 @@ Specifically targeting non-funded proposals as the group most in need of recogni
 
 ### Funded proposals have a burnout problem too - Tyler Wales - 20:21
 
+If the funding is not enough to compensate everyone in a collaborative project the same problem of unreward and disincentive arises.
+
+
+
 
 
 
