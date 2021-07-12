@@ -152,6 +152,8 @@ How to reconcile self-sovereignty of identity with contribution tracking? If we 
 
 ### A regular forum for tracking and contribution issues ? - Stephen Whitenstall, Rares  - 41:26
 
+Community resources can be documented on The Catalyst Alliance GitBook
+
 
 
 
