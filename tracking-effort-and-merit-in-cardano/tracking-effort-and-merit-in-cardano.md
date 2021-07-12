@@ -76,6 +76,10 @@ Specifically targeting non-funded proposals as the group most in need of recogni
 
 If the funding is not enough to compensate everyone in a collaborative project the same problem of being unrewarded and disincentivized arises.
 
+### Community Advisors overworked - Tyler Wales - 21:21
+
+Community Advisors are overworked. In the most recent proposals there were only 4 or 5 CAs rank each one.
+
 
 
 
