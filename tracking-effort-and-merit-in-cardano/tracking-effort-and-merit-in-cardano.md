@@ -86,6 +86,10 @@ Community Advisors are overworked. In the most recent proposals there were only 
 
 Otherwise whoever has the best marketing message might have the best chance of being funded.
 
+### Goal oriented prizes ? - Stephen Whitenstall  - 23:59
+
+### A need for varying degrees of reward - Jonathan Adjei - 24:11
+
 
 
 
