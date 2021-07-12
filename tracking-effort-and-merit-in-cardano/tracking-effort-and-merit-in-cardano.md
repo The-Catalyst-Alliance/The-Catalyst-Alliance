@@ -182,7 +182,7 @@ NFT Awards are based on tangible data that is not contentious. Whilst SourceCred
 
 ### Give an NFT to every proposal ?  - Tyler Wales - 51:42
 
-New Mindflow is the idea to give an NFT to every person who submits a proposal ? Or as the proposal improves they get an goal based NFT award that recognises deliverables ?
+New Mindflow is the idea to give an NFT to every person who submits a proposal ? Or as the proposal improves they get an goal based NFT award that recognizes deliverables ?
 
 ### Unfunded proposals is just the first step - New Mindflow - 53:03
 
