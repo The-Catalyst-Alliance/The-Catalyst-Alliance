@@ -178,6 +178,8 @@ The lessons learnt from NFT Awards and from SourceCred can be compared. NFT Awar
 
 ### Tangible versus intangible data - Dan Verowski - 50:40
 
+NFT Awards are based on tangible data that is not contentious. Whilst SourceCred tracking requires the weighting of intangible data in a social setting.
+
 
 
 
