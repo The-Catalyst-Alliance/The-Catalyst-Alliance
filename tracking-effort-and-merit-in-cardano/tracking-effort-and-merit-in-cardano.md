@@ -68,6 +68,10 @@ To avoid the difficulty of minting a specific NFT every time you want to reward 
 
 Specifically targeting non-funded proposals as the group most in need of recognition and reward. Funded proposals get funded, Community Advisors and Veteran Community Advisors get rewards. But it is possible to put a lot of hours into a proposal and you end up with nothing to show for it. Which is potentially demoralising and a disincentive to participate in the Catalyst process in the future.
 
+### Ideally the Community Advisor input and feedback would have its own value - Dan Verowski  - 19:10
+
+
+
 
 
 
