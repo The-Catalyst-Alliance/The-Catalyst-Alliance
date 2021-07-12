@@ -106,7 +106,7 @@ In a previous meeting we discussed implementation of SourceCred. Possibly starti
 
 ### Set-up a SourceCred test server - Dan Verowski   - 27:50
 
-Starting simple with Emojii data.
+Starting simple with Emojii data on Discord and see how well GitHub integrates with SourceCred.
 
 
 
