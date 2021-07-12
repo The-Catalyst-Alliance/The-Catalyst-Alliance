@@ -158,6 +158,8 @@ Community resources can be documented on The Catalyst Alliance GitBook.
 
 Difference between rewarding community members to incentive participation and tracking community contributions in general.
 
+### Scaling an Awards system to the whole Catalyst community - New Mindflow - 44:30
+
 
 
 
