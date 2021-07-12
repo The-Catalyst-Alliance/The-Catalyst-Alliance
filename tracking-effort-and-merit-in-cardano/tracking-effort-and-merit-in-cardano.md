@@ -4,7 +4,7 @@ description: Tracking effort and merit in Cardano Working Group Meetings
 
 # Tracking Working Group - July 2021
 
-## Meeting, 8th July 2021
+## Meeting, Thursday, 8th July 2021
 
 ### Tracking effort and merit, NFTs, social media, SourceCred and testing it out in The Catalyst Alliance.
 
