@@ -170,6 +170,8 @@ The wider the community involvement and the awareness tracking and reward system
 
 ### SourceCred is an open-source social algorithm- Tyler Wales - 48:00
 
+Do we think that Ideascale is a long-term solution for proposals ?
+
 
 
 
