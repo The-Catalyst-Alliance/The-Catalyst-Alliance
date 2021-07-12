@@ -166,6 +166,10 @@ Being aware of what is going on in terms of tracking contributions across the Ca
 
 ### A community overview - Jonathan Adjei, Stephen Whitenstall - 47:04
 
+The wider the comminity involvment and the awareness tracking and reward systems have the better.
+
+
+
 
 
 
