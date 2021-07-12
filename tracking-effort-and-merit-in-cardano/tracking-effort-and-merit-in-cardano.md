@@ -168,6 +168,8 @@ Being aware of what is going on in terms of tracking contributions across the Ca
 
 The wider the community involvement and the awareness tracking and reward systems have the better. Hopefully, we SourceCred we can develop APIs that can interact with various sources of data.
 
+### SourceCred is an open-source social algorithm- Tyler Wales - 48:00
+
 
 
 
