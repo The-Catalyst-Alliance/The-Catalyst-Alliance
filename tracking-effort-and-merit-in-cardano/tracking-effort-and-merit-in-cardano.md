@@ -144,6 +144,8 @@ The SourceCred strategy is to start very simple, in a very specific area and def
 
 How to reconcile self-sovereignty of identity with contribution tracking? If we do not have involvement from all sections of the community, there will be no transparency.
 
+### Ongoing working group meetings - Stephen Whitenstall   - 38:57
+
 
 
 
