@@ -58,19 +58,19 @@ We have tiers of recognition. A General Participation Award and By Category of P
 
 Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have issued Awards and a Kudos bot in The Catalyst Alliance \(TCA\) Discord Server. Cardano Project Catalyst Discord Roles - people get assigned roles if they are particularly active. The Community Advisor and Veteran Community Advisors need recognizing. There could be NFTs to recognise all these roles.
 
-### Do NFT Awards accrue value in themselves & can we remove that value ?  - Jonathan Adjei - 14:26
+### Do NFT Awards accrue value in themselves & can we remove that value ?  - Jonathan Adjei - [14:26](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=866s)
 
-### Vesting periods - Stephen Whitenstall  - 14:57
+### Vesting periods - Stephen Whitenstall  - [14:57](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=897s)
 
-### Why not use an aggregation layer like SourceCred ? - Dan Verowski   - 15:23
+### Why not use an aggregation layer like SourceCred ? - Dan Verowski   - [15:23](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=923s)
 
 To avoid the difficulty of minting a specific NFT every time you want to reward a contribution why not use an aggregation layer like SourceCred? Then just take the data and put it in a very small format like JSON, validate it, put it as metadata on a Catalst ID or passport NFT. That is individual to each person in the Catalyst community who has a Cardano wallet address or Ideascale account. Then just aggregate the contribution data as an NFT. Later on you can vest the NFT for a certain amount of time and access a faucet where you can take \(binding or non-binding \) voting tokens. And get a proportional amount of tokens to your reputation. Non-binding voting could be returned, whilst binding voting tokens could be lost. To incentivize making the right decision on the vote.
 
-### An experiment for Catalyst wide recognition systems - New Mindflow  - 17:59	
+### An experiment for Catalyst wide recognition systems - New Mindflow  - [17:59](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1079s)	
 
 Specifically targeting non-funded proposals as the group most in need of recognition and reward. Funded proposals get funded, Community Advisors and Veteran Community Advisors get rewards. But it is possible to put a lot of hours into a proposal and you end up with nothing to show for it. Which is potentially demoralising and a disincentive to participate in the Catalyst process in the future.
 
-### Ideally the Community Advisor input and feedback would have its own value - Dan Verowski  - 19:10
+### Ideally the Community Advisor input and feedback would have its own value - Dan Verowski  - [19:10](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1150s)
 
 ### Broadening out the Awards NFTs to reward unfunded people- Stephen Whitenstall  - 19:52
 
