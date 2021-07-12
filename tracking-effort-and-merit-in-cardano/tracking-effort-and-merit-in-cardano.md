@@ -112,6 +112,8 @@ Starting simple with Emojii data on Discord and see how well GitHub integrates w
 
 ### A wider collaboration on SourceCred ? - Stephen Whitenstall, Dan Verowski   - 30:00
 
+### SourceCred solely based on Kudos and Reactions ?- Anna Maria  - 30:23
+
 
 
 
