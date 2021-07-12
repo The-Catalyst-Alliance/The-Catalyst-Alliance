@@ -124,6 +124,8 @@ You setup your SourceCred parameters \(reward and contribution\) you run it for 
 
 Cultural discovery of value. What our community values. That will change from community to community. How to set-up from a social perspective.
 
+### Secret Decks validator pool - Dan Verowski   - 32:32
+
 
 
 
