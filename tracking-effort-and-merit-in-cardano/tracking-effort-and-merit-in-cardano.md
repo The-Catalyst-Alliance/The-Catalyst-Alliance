@@ -90,6 +90,10 @@ Otherwise whoever has the best marketing message might have the best chance of b
 
 ### A need for varying degrees of reward - Jonathan Adjei - 24:11
 
+The ideal rewards are in fungibles or voting rights \(as Dan was saying\). If you have a reward that is represenative of the amount of effort or the goals achieved then that is far more fair and equitable than an NFT that can incrase in value arbiatrily with no further contribution.
+
+
+
 
 
 
