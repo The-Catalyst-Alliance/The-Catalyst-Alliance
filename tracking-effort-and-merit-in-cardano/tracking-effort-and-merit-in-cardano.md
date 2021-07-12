@@ -100,6 +100,8 @@ The ideal rewards are in fungibles or voting rights \(as Dan was saying\). If yo
 
 ## SourceCred - 26:37
 
+In a previous meeting we discussed implementation of SourceCred.
+
 
 
 
