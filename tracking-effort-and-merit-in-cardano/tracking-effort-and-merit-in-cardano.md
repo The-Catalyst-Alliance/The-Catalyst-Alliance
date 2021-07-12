@@ -120,6 +120,10 @@ How can we make sure it remains fair ? And prevent people's preferences and gami
 
 You setup your SourceCred parameters \(reward and contribution\) you run it for a few weeks. Then you evaluate the results. Figure out where there are gaps and where people are abusing the system. It is not going to be perfect, only capturing some of the organic value.
 
+### Any tracking system needs a process of value discovery - Stephen Whitenstall   - 31:44
+
+
+
 
 
 
