@@ -1,8 +1,8 @@
 ---
-description: Tracking effort and merit in Cardano
+description: Tracking effort and merit in Cardano Working Group Meetings
 ---
 
-# Tracking effort and merit in Cardano
+# Tracking Working Group
 
 ## Meeting, 8th July 2021
 
