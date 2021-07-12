@@ -114,6 +114,10 @@ Starting simple with Emojii data on Discord and see how well GitHub integrates w
 
 ### SourceCred solely based on Kudos and Reactions ?- Anna Maria  - 30:23
 
+How can we make sure it remains fair ? And prevent people's preferances and gaming the system ?
+
+### It is a system that needs tweaking - Tyler Wales  - 31:02
+
 
 
 
