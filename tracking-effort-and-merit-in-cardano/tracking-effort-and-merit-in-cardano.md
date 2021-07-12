@@ -174,7 +174,11 @@ Do we think that Ideascale is a long-term solution for proposals ?
 
 ### Lessons learnt from different approaches - Stephen Whitenstall - 49:30
 
-The lessons learnt from NFT Awards and from SourceCred can be compared. NFT Awards and SourceCred tracking are different paradigms, which is interesting.
+The lessons learnt from NFT Awards and from SourceCred can be compared. NFT Awards and SourceCred tracking are different paradigms, which is interesting. To compare the outcomes of these different approaches.
+
+
+
+
 
 
 
