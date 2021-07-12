@@ -142,6 +142,8 @@ The SourceCred strategy is to start very simple, in a very specific area and def
 
 ### Anonymity and tracking - Jonathan Adjei - 37:06
 
+How to reconcile self-sovereignity of identity with contribution tracking ?
+
 
 
 
