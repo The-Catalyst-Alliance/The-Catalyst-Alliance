@@ -148,7 +148,7 @@ How to reconcile self-sovereignty of identity with contribution tracking? If we 
 
 ### The Catalyst Alliance as the venue for regular tracking meetings - Stephen Whitenstall, Jonathan Adjei - 39:20
 
-### Digital Identity - Dan Verowski - 39:49
+### Digital Identity and Anonymity- Dan Verowski - 39:49
 
 
 
