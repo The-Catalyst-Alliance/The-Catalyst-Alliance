@@ -186,6 +186,8 @@ New Mindflow is the idea to give an NFT to every person who submits a proposal ?
 
 ### Unfunded proposals is just the first step - New Mindflow - 53:03
 
+We indentied unfunded proposals as being the group most in need of recognition and reward.
+
 
 
 
