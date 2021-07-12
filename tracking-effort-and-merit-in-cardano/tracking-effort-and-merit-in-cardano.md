@@ -154,6 +154,8 @@ How to reconcile self-sovereignty of identity with contribution tracking? If we 
 
 Community resources can be documented on The Catalyst Alliance GitBook.
 
+### Priorities to accommodate incentivisation - Tyler Wales - 43:36
+
 
 
 
