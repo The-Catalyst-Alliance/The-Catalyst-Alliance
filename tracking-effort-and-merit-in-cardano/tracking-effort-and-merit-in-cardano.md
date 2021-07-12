@@ -208,3 +208,25 @@ If we can communicate what is going on in various projects and provide a context
 
 Funding for on-chain binding votes .
 
+# References
+## Tracking tools
+
+https://sourcecred.io/
+A tool for communities to measure and reward value creation.
+
+https://joinseeds.earth/
+ Seeds is a currency that aligns money with value.
+ We value people, planet and prosperity for all.
+
+https://coordinape.com/
+ Scale your community with tools to reward contributors, incentivize participation and manage resources
+
+https://disco.coop/
+ The DisCO Project is a friendly and carefully planned approach for organizations that want to create and share value in ways that are cooperative, commons-oriented and rooted in feminist economics.
+
+## Resources
+Building Web Reputation Systems - Randy Farmer
+ https://www.youtube.com/watch?v=Yn7e0J9m6rE
+
+
+
