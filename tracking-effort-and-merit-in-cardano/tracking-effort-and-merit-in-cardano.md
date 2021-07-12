@@ -140,9 +140,9 @@ The SourceCred strategy is to start very simple, in a very specific area and def
 
 ## Ongoing meetings and co-ordination about tracking in the Cardano community - 36:53
 
-### Anonymity and tracking - Jonathan Adjei - 37:06
+### Anonymity and tracking, community involvment - Jonathan Adjei - 37:06
 
-How to reconcile self-sovereignity of identity with contribution tracking ?
+How to reconcile self-sovereignty of identity with contribution tracking? If we do not have involvement from all sections of the community, there will be no transparency.
 
 
 
