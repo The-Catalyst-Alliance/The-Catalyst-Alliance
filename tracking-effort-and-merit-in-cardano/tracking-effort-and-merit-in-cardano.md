@@ -192,7 +192,7 @@ We identified unfunded proposals as being the group most in need of recognition 
 
 ### Idea Fest voting data and Heidrun - New Mindflow - 54:53
 
-Data on multiple groups and types of recognition. Distribution of tokens to presenters and attendees. Using Kyle Solomon's Heidrun to control access to a token faucet.
+Data on multiple groups and types of recognition. Distribution of tokens to organisers and attendees. Using Kyle Solomon's Heidrun to control access to a token faucet.
 
 {% embed url="https://github.com/adosia/Heidrun" %}
 
