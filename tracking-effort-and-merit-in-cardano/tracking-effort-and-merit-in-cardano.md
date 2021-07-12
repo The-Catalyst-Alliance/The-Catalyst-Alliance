@@ -176,6 +176,8 @@ Do we think that Ideascale is a long-term solution for proposals ?
 
 The lessons learnt from NFT Awards and from SourceCred can be compared. NFT Awards and SourceCred tracking are different paradigms, which is interesting. To compare the outcomes of these different approaches.
 
+### Tangible versus intangible data - Dan Verowski - 50:40
+
 
 
 
