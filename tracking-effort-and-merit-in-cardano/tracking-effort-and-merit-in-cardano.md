@@ -186,7 +186,7 @@ New Mindflow is the idea to give an NFT to every person who submits a proposal ?
 
 ### Unfunded proposals is just the first step - New Mindflow - 53:03
 
-We identified unfunded proposals as being the group most in need of recognition and reward. Because that would be very easy to track data.
+We identified unfunded proposals as being the group most in need of recognition and reward. Because that would be very easy to track data. But later SourceCred could be used and APIs accessed in other sources such as Ideascale.
 
 
 
