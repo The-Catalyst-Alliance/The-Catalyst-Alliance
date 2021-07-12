@@ -188,6 +188,10 @@ New Mindflow is the idea to give an NFT to every person who submits a proposal ?
 
 We identified unfunded proposals as being the group most in need of recognition and reward. Because that would be very easy to track data. But later SourceCred could be used and APIs accessed in other sources such as Ideascale.
 
+### Circle representatives could petition IOHK for better data access - Stephen Whitenstall - 54:05
+
+### Idea Fest voting data - New Mindflow - 54:53
+
 
 
 
