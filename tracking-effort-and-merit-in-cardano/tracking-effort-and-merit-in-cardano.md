@@ -80,6 +80,12 @@ If the funding is not enough to compensate everyone in a collaborative project t
 
 Community Advisors are overworked. In the most recent proposals there were only 4 or 5 CAs rank each one. Which is probably not enough. Even for CAs there needs to be some additional incentive. We need to incentivize better proposals that focus on tangible results.
 
+### A shift towards more goal oriented proposals ? - Stephen Whitenstall  - 22:35
+
+### A reward system would improve everything - Tyler Wales - 23:11
+
+Otherwise whoever has the best marketing message might have the best chance of being funded.
+
 
 
 
