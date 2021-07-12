@@ -108,6 +108,10 @@ In a previous meeting we discussed implementation of SourceCred. Possibly starti
 
 Starting simple with Emojii data on Discord and see how well GitHub integrates with SourceCred.
 
+### Start with a Discord channel - Stephen Whitenstall, Tyler Wales  - 29:21
+
+### A wider collaboration on SourceCred ? - Stephen Whitenstall, Dan Verowski   - 30:00
+
 
 
 
