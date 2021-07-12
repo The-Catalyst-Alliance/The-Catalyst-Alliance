@@ -134,6 +134,8 @@ If our ultimate goal is to capture value being generated in the Catalyst communi
 
 ### SourceCred allows for migration of data - Dan Verowski   - 35:05
 
+### SourceCred strategy is to start very simple- Stephen Whitenstall   - 35:41
+
 
 
 
