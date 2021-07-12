@@ -136,6 +136,8 @@ If our ultimate goal is to capture value being generated in the Catalyst communi
 
 ### SourceCred strategy is to start very simple- Stephen Whitenstall   - 35:41
 
+The SourceCred strategy is to start very simple, in a very specific area and define what you were trying to achieve in a specfic channel on Discord. And then do a parallel implementation where you would complement SourceCred tracking with a "paper record" as a sanity check. To check if there is any distortions taking place. The more complex tracking gets the more massive the distortions of value.
+
 
 
 
