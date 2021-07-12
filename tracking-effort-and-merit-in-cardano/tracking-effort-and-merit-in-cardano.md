@@ -70,6 +70,8 @@ Specifically targeting non-funded proposals as the group most in need of recogni
 
 ### Ideally the Community Advisor input and feedback would have its own value - Dan Verowski  - 19:10
 
+### Broadening out the Awards NFTs to reward unfunded people- Stephen Whitenstall  - 19:52
+
 
 
 
