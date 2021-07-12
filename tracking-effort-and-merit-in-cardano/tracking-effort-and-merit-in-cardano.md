@@ -64,7 +64,11 @@ Now there are NFTs for Idea Fest, SPOCRA \(Cardano Stake Pool Operators\) have i
 
 To avoid the difficulty of minting a specific NFT every time you want to reward a contribution why not use an aggregation layer like SourceCred? Then just take the data and put it in a very small format like JSON, validate it, put it as metadata on a Catalst ID or passport NFT. That is individual to each person in the Catalyst community who has a Cardano wallet address or Ideascale account. Then just aggregate the contribution data as an NFT. Later on you can vest the NFT for a certain amount of time and access a faucet where you can take \(binding or non-binding \) voting tokens. And get a proportional amount of tokens to your reputation. Non-binding voting could be returned, whilst binding voting tokens could be lost. To incentivize making the right decision on the vote.
 
-### An experiment for Catalyst wide recognition systems - New Mindflow  - 17:59
+### An experiment for Catalyst wide recognition systems - New Mindflow  - 17:59	
+
+Specifically targeting non-funded proposals as the group most in need of recognition and reward. Funded proposals get funded, Community Advisors and Veteran Community Advisors get rewards. But it is possible to put a lot of hours into a proposal and you end up with nothing to show for it. Which is potentially demoralising and a disincentive to participate in the Catalyst process in the future.
+
+
 
 
 
