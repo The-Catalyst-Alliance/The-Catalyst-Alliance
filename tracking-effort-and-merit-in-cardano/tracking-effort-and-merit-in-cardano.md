@@ -74,33 +74,33 @@ Specifically targeting non-funded proposals as the group most in need of recogni
 
 ### Ideally the Community Advisor input and feedback would have its own value - Dan Verowski  - [19:10](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1150s)
 
-### Broadening out the Awards NFTs to reward unfunded people- Stephen Whitenstall  - 19:52
+### Broadening out the Awards NFTs to reward unfunded people- Stephen Whitenstall  - [19:52](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1192s)
 
-### Funded proposals have a burnout problem too - Tyler Wales - 20:21
+### Funded proposals have a burnout problem too - Tyler Wales - [20:21](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1221s)
 
 If the funding is not enough to compensate everyone in a collaborative project the same problem of being unrewarded and disincentivized arises.
 
-### Community Advisors overworked - Tyler Wales - 21:21
+### Community Advisors overworked - Tyler Wales - [21:21](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1281s)
 
 Community Advisors are overworked. In the most recent proposals there were only 4 or 5 CAs rank each one. Which is probably not enough. Even for CAs there needs to be some additional incentive. We need to incentivize better proposals that focus on tangible results.
 
-### A shift towards more goal oriented proposals ? - Stephen Whitenstall  - 22:35
+### A shift towards more goal oriented proposals ? - Stephen Whitenstall  - [22:35](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1355s)
 
-### A reward system would improve everything - Tyler Wales - 23:11
+### A reward system would improve everything - Tyler Wales - [23:11](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1391s)
 
 Otherwise whoever has the best marketing message might have the best chance of being funded.
 
-### Goal oriented prizes ? - Stephen Whitenstall  - 23:59
+### Goal oriented prizes ? - Stephen Whitenstall  - [23:59](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1439s)
 
-### A need for varying degrees of reward - Jonathan Adjei - 24:11
+### A need for varying degrees of reward - Jonathan Adjei - [24:11](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1451s)
 
 The ideal rewards are in fungibles or voting rights \(as Dan was saying\). If you have a reward that is representative of the amount of effort or the goals achieved then that is far more fair and equitable than an NFT that can increase in value arbitrarily with no further contribution.
 
-### Reward of unfunded proposals as a starting point - New Mindflow  - 25:59
+### Reward of unfunded proposals as a starting point - New Mindflow  - [25:59](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1559s)
 
-### Minting reward NFTs can be seen as inefficent - Stephen Whitenstall  - 26:15
+### Minting reward NFTs can be seen as inefficent - Stephen Whitenstall  - [26:15](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1575s)
 
-## SourceCred - 26:37
+## SourceCred - [26:37](https://www.youtube.com/watch?v=Vf74Ia7UMlU&t=1597s)
 
 In a previous meeting we discussed implementation of SourceCred. Possibly starting a test server or channel in Discord.
 
