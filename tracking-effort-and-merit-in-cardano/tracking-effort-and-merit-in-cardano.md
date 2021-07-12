@@ -96,6 +96,8 @@ The ideal rewards are in fungibles or voting rights \(as Dan was saying\). If yo
 
 ### Reward of unfunded proposals as a starting point - New Mindflow  - 25:59
 
+### Minting reward NFTs can be seen as inefficent - Stephen Whitenstall  - 26:15
+
 
 
 
