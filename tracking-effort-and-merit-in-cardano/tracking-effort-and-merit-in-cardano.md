@@ -122,7 +122,7 @@ You setup your SourceCred parameters \(reward and contribution\) you run it for 
 
 ### Any tracking system needs a process of value discovery - Stephen Whitenstall   - 31:44
 
-Cultural discovery of value. What our community values. That will change from community to community. How to set-up from a socail perspective.
+Cultural discovery of value. What our community values. That will change from community to community. How to set-up from a social perspective.
 
 
 
