@@ -202,7 +202,7 @@ If we can communicate what is going on in various projects and provide a context
 
 ### Community outreach and data - Jonathan Adjei - 57:52
 
-### Funding applications - Stephen Whitenstall - 59:34
+### Funding applications - Stephen Whitenstall, Dan Verowski - 59:34
 
 
 
