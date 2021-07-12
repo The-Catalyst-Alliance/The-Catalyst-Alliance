@@ -102,6 +102,10 @@ The ideal rewards are in fungibles or voting rights \(as Dan was saying\). If yo
 
 In a previous meeting we discussed implementation of SourceCred.
 
+{% embed url="https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-community-july-2021\#sourcecred-use-set-up-and-strategy" %}
+
+
+
 
 
 
