@@ -72,6 +72,8 @@ Specifically targeting non-funded proposals as the group most in need of recogni
 
 ### Broadening out the Awards NFTs to reward unfunded people- Stephen Whitenstall  - 19:52
 
+### Funded proposals have a burnout problem too - Tyler Wales - 20:21
+
 
 
 
