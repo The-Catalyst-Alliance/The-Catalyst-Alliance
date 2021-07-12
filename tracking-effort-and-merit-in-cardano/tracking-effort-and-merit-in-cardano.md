@@ -130,7 +130,7 @@ A validator pool to validate contributions prior to minting an NFT. The data wil
 
 ### What is our ultimate goal ? - Rares  - 33:33
 
-If our ultimate goal is to capture value being generated in the Catalyst community as a whole going down the path of SourceCred might be a dead end. It only operates on Discord and GitHub. It does not integrate with Ideasacle or tracking deliveables on funded proposers.
+If our ultimate goal is to capture value being generated in the Catalyst community as a whole going down the path of SourceCred might be a dead end. It only operates on Discord and GitHub. It does not integrate with Ideascale or tracking deliverables on funded proposers.
 
 
 
