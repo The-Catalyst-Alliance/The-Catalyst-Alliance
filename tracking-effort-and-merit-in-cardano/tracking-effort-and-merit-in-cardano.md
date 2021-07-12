@@ -140,6 +140,8 @@ The SourceCred strategy is to start very simple, in a very specific area and def
 
 ## Ongoing meetings and co-ordination about tracking in the Cardano community - 36:53
 
+### Anonymity and tracking - Jonathan Adjei - 37:06
+
 
 
 
