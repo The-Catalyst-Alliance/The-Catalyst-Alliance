@@ -204,6 +204,8 @@ If we can communicate what is going on in various projects and provide a context
 
 ### Funding applications - Stephen Whitenstall, Dan Verowski - 59:34
 
+Funding for on-chain binding votes .
+
 
 
 
