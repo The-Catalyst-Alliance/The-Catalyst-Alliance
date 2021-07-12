@@ -132,6 +132,8 @@ A validator pool to validate contributions prior to minting an NFT. The data wil
 
 If our ultimate goal is to capture value being generated in the Catalyst community as a whole going down the path of SourceCred might be a dead end. It only operates on Discord and GitHub. It does not integrate with Ideascale or tracking deliverables on funded proposers. It might be better to build a custom solution.
 
+### SourceCred allows for migration of data - Dan Verowski   - 35:05
+
 
 
 
