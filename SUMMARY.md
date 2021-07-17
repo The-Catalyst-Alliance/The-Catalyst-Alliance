@@ -13,8 +13,5 @@
 ## Tracking effort and merit in Cardano
 
 * [Tracking Working Group - July 2021](tracking-effort-and-merit-in-cardano/tracking-working-group-july-2021.md)
-
----
-
-* [SourceCred](sourcecred-set-up.md)
+* [SourceCred](tracking-effort-and-merit-in-cardano/sourcecred-set-up.md)
 
