@@ -16,6 +16,12 @@ description: Catalyst-Alliance SourceCred Use
 
 {% embed url="https://the-catalyst-alliance.github.io/SCinstance/\#/ledger" %}
 
+## SourceCred Discord Configuration
+
+{% embed url="https://sourcecred.io/docs/beta/plugins/discord" %}
+
+
+
 ## Catalyst-Alliance-Co-ordination
 
 This is the repository where Tracking effort and merit activities are tracked and issues raised.
