@@ -14,3 +14,7 @@
 
 * [Tracking Working Group - July 2021](tracking-effort-and-merit-in-cardano/tracking-working-group-july-2021.md)
 
+---
+
+* [SourceCred Set-up](sourcecred-set-up.md)
+
