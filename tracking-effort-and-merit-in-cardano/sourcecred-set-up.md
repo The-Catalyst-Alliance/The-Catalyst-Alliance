@@ -8,10 +8,6 @@ description: Catalyst-Alliance SourceCred Use
 
 {% embed url="https://the-catalyst-alliance.github.io/SCinstance/\#/explorer" %}
 
-## Grain Accounts
-
-{% embed url="https://the-catalyst-alliance.github.io/SCinstance/\#/accounts" %}
-
 
 
 ## Catalyst-Alliance SourceCred Instance Set-Up
