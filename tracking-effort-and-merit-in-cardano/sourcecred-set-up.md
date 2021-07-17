@@ -18,7 +18,7 @@ description: Catalyst-Alliance SourceCred Use
 
 ## Catalyst-Alliance-Co-ordination
 
-This is the repository where Tracking effort and merit activties are tracked and issues raised.
+This is the repository where Tracking effort and merit activities are tracked and issues raised.
 
 ### Tracking effort and merit - Project Board
 
