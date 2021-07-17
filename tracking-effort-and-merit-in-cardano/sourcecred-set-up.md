@@ -24,7 +24,7 @@ description: Catalyst-Alliance SourceCred Use
 
 {% embed url="https://github.com/The-Catalyst-Alliance/Catalyst-Alliance-Co-ordination/projects/3" %}
 
-## Catalyst-Alliance SourceCred Instance Set-Up
+### Catalyst-Alliance SourceCred Instance Set-Up
 
 {% embed url="https://github.com/The-Catalyst-Alliance/Catalyst-Alliance-Co-ordination/issues/5" %}
 
