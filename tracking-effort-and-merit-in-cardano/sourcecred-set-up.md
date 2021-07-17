@@ -10,7 +10,7 @@ description: Catalyst-Alliance SourceCred Use
 
 ## Grain Accounts
 
-Cred flow - Cred is minted on Discord reactions. It then flows to connected nodes.
+How Cred works \([link](https://sourcecred.io/docs/beta/cred)\)
 
 {% embed url="https://the-catalyst-alliance.github.io/SCinstance/\#/accounts" %}
 
