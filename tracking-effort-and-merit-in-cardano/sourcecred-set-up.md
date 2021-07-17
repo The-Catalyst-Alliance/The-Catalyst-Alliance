@@ -18,6 +18,8 @@ description: Catalyst-Alliance SourceCred Use
 
 ## Catalyst-Alliance-Co-ordination
 
+This is the repositroy where Tracking effort and merit activties are tracked and issues raised.
+
 ### Tracking effort and merit - Project Board
 
 ![Tracking effort and merit - Project Board](../.gitbook/assets/2021-07-17-4-.png)
