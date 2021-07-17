@@ -16,5 +16,5 @@
 
 ---
 
-* [SourceCred Set-up](sourcecred-set-up.md)
+* [SourceCred](sourcecred-set-up.md)
 
