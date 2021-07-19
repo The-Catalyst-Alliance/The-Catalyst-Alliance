@@ -52,6 +52,10 @@ This is the repository where Tracking effort and merit activities are tracked an
 
 ## References
 
+### Introduction to SourceCred
+
+{% embed url="https://medium.com/sourcecred/introduction-to-sourcecred-7665297af715" %}
+
 ### SC Template for Community Onboarding
 
 {% embed url="https://discourse.sourcecred.io/t/sc-template-for-community-onboarding/849" %}
