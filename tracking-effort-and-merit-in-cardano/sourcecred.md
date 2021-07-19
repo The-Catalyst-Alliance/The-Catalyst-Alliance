@@ -42,5 +42,7 @@ This is the repository where Tracking effort and merit activities are tracked an
 
 ### 1 - First Use
 
+![](../.gitbook/assets/screenshot_from_2021-07-17_15-14-32.png)
+
 
 
