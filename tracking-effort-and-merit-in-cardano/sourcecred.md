@@ -56,6 +56,10 @@ This is the repository where Tracking effort and merit activities are tracked an
 
 {% embed url="https://discourse.sourcecred.io/t/sc-template-for-community-onboarding/849" %}
 
+### SourceCred's Initiatives Index
+
+{% embed url="https://docs.google.com/spreadsheets/d/1IYNXNghAnMAGPof3f9bZZQeIGxlOHJQrUmu9qONY3KQ/edit\#gid=0" %}
+
 
 
 
