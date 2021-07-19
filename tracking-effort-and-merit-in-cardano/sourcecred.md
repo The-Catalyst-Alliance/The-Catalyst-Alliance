@@ -50,6 +50,12 @@ This is the repository where Tracking effort and merit activities are tracked an
 
 
 
+## References
+
+### SC Template for Community Onboarding
+
+{% embed url="https://discourse.sourcecred.io/t/sc-template-for-community-onboarding/849" %}
+
 
 
 
