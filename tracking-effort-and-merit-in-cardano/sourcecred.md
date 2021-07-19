@@ -42,7 +42,15 @@ This is the repository where Tracking effort and merit activities are tracked an
 
 ### 1 - First Use
 
-![](../.gitbook/assets/screenshot_from_2021-07-17_15-14-32.png)
+![Emojii weighting](../.gitbook/assets/screenshot_from_2021-07-17_15-14-32.png)
+
+Discord context
+
+{% embed url="https://discord.com/channels/842027827829145611/865131117051904042/865959818601562153" %}
+
+
+
+
 
 
 
